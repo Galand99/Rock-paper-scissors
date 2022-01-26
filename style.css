@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    
+}
+div{
+    padding: 0.5em;
+    margin-bottom: 10px;
+}
+p{
+   margin-top: -10px;
+}
